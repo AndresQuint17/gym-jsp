@@ -1,0 +1,3 @@
+com/gym/config/ConfigApp.class
+com/gym/config/ServletInitializer.class
+com/gym/controller/SedeContoller.class
