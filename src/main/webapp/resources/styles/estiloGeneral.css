@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: #151515;
+	margin: 0% 0% 0% 0%;
+	padding: 0% 0% 0% 0%;
+}
+	header{
+		background-image: url(../img/caucho.jpg);
+		background-repeat: repeat-x;
+		background-position: center top;
+		margin: 0% auto 0% auto;
+		padding: 0% 0% 0% 0%;
+		width: 1200px;
+	}
+		ul{
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			color: white;
+			list-style: none;
+			height: 80px;
+			margin: 0% 10% 0% 10%;
+		}
+			ul li a{
+				color: white;
+				size: 16px;
+			}
+			a:hover{
+				color: red;
+			}
+			
+	.division1{
+		margin: 0 auto;
+		padding: 0 0 0 0;
+		width: 1200px;
+		height: 680px;
+	}
+			
+	footer{
+		background-image: url(../imagenes/caucho.jpg);
+		background-repeat: repeat-x;
+		background-position: center top;
+		margin: 0% auto 0% auto;
+		padding: 0 0 0 0;
+		width: 1200px;
+		color: white;
+	}
