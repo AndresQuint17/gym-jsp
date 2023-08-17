@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+.divP1{
+	background-image: url(../img/ejercicios-basicos-de-gimnasio.webp);
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 1200px;
+	height: 770px;
+	margin-top: 0%;
+	padding-top: 0%;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.tablaSedes{
+	margin: 0 auto;
+	color: white;
+	border-color: white;
+	border-style: groove;
+}
+	th{
+		text-transform: uppercase;
+		border-bottom-style: groove;
+		border-color: darkgray;
+	}
+
+p{
+	color: white;
+}

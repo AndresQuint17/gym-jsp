@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.divP1{
+	background-image: url(../img/Fitness.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	color: white;
+	width: 1200px;
+	height: 777px;
+}

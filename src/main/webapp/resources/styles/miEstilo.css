@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+div{
+	background-image: url(../img/peso_mue.png.webp);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+	h1{
+		color: white;
+		text-align: center;
+		text-shadow: 15cap;
+		text-transform: uppercase;
+		size: 35;
+		margin-top: 0%;
+	}
+	p{
+		color: white;
+		font-size: 22;
+		margin-bottom: 0%;
+	}
+	
